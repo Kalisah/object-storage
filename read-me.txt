@@ -1,0 +1,2 @@
+1. Set up AWS cerdentials , access key , secret key , bucket name and endpoint of object storage, server host and server port in environment variable of the container.
+2. run the conatiner
